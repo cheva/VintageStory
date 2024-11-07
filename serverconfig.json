@@ -4,7 +4,7 @@
   "ServerName": "Vintage Story Server",
   "ServerUrl": null,
   "ServerDescription": null,
-  "WelcomeMessage": "Добро пожаловать, {0}, выживайте долго и процветайте",
+  "WelcomeMessage": "Welcome {0}! =)s(=",
   "Ip": null,
   "Port": 42420,
   "Upnp": false,
