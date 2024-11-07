@@ -79,8 +79,35 @@
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
+    },
+    "timeswitch": {
+      "KeyCode": 107,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
     }
   },
+  "dialogPositions": {
+    "inventory-backpack": {
+      "X": 569,
+      "Y": 434
+    },
+    "playerstats": {
+      "X": -356,
+      "Y": -79
+    },
+    "environment": {
+      "X": 5,
+      "Y": 804
+    },
+    "playercharacter": {
+      "X": -3,
+      "Y": 438
+    }
+  },
+
   "dialogPositions": {
     "inventory-backpack": {
       "X": 882,
