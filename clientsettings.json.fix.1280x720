@@ -148,7 +148,8 @@
     "audioDevice": null,
     "playeruid": "1234567890",
     "playername": "Dee",
-    "lastSkinSelection": "baseskin:skin18,eyecolor:dark-green,underwear:breeches,voicetype:trumpet,voicepitch:verylow,hairbase:longwithstrands,hairextra:elaboratestickbun,facialexpression:neutral,mustache:mst-walrus30-fat,beard:brd-braid10-double,haircolor:lightgray",
+    "lastSkinSelection": "baseskin:skin5,eyecolor:midnight,underwear:leotard,voicetype:trumpet,voicepitch:verylow,hairbase:dreadlocks,hairextra:vikingtopbraid,facialexpression:sad,mustache:mst-walrus30-fat,beard:brd-braid10-double,haircolor:silverchalice",
+    "prevSkinSelection": "baseskin:skin18,eyecolor:dark-green,underwear:breeches,voicetype:trumpet,voicepitch:verylow,hairbase:longwithstrands,hairextra:elaboratestickbun,facialexpression:neutral,mustache:mst-walrus30-fat,beard:brd-braid10-double,haircolor:lightgray",
     "currentHandbookCategoryCode": "stack"
   },
   "intSettings": {
@@ -276,23 +277,13 @@
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
     "instabilityWavingStrength": 0.5,
-    "ssaa": 0.5,
+    "ssaa": 0.0,
     "megaScreenshotSizeMul": 2.0,
     "minbrightness": 0.1
   },
   "stringListSettings": {
     "multiplayerservers": [],
-    "disabledMods": [
-      "aged@1.0.4",
-      "caninae@1.0.19",
-      "capreolinae@1.1.8",
-      "casuariidae@1.0.11",
-      "dinornithidae@1.0.1",
-      "machairodontinae@1.0.12",
-      "pantherinae@1.1.12",
-      "rhinocerotidae@1.0.6",
-      "sirenia@1.0.8"
-    ],
+    "disabledMods": [ ],
     "dialogPositions": [],
     "modPaths": [
       "Mods",
