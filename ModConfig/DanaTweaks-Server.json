@@ -1,0 +1,202 @@
+{
+  "AutoCloseDefaultDelay": 3000,
+  "AutoClose": true,
+  "AutoCloseDelays": {
+    "game:doorkiln-*": 3000,
+    "game:door-1x2heavy-*": -1,
+    "game:door-1x3heavy-*": -1,
+    "game:door-2x4heavy-*": -1,
+    "game:irondoor-*": 3000,
+    "game:trapdoor-plate-*": 3000,
+    "game:trapdoor-bars-*": 3000,
+    "game:door-crude": 3000,
+    "game:door-ruined-rough1": -1,
+    "game:door-ruined-rough2": -1,
+    "game:door-ruined-rough3": -1,
+    "game:door-ruined-windowed1": -1,
+    "game:door-ruined-windowed2": -1,
+    "game:door-ruined-windowed3": -1,
+    "game:door-sleek-windowed-*": 3000,
+    "game:door-solid-*": 3000,
+    "game:door-1x3gate-*": 3000,
+    "game:door-2x2gate-*": 3000,
+    "game:door-2x4gate-*": 3000,
+    "game:door-2x3gate-*": 3000,
+    "game:woodenfencegate-*": 3000,
+    "game:roughhewnfencegate-*": 3000,
+    "game:trapdoor-solid-*": 3000,
+    "game:trapdoor-window-*": 3000,
+    "game:bamboogate-*": 3000,
+    "game:wattlegate-*": 3000
+  },
+  "AutoPlantDroppedTreeSeeds": true,
+  "AutoPlantDroppedTreeSeedsDelay": 5000,
+  "Command": {
+    "CrateOpenCloseLid": true,
+    "CrateRemoveOrAddLabel": true
+  },
+  "CreaturesOpenDoors": {
+    "drifter-*": {
+      "Enabled": true,
+      "Cooldown": 5.0,
+      "Range": 1.0
+    }
+  },
+  "OvenFuelItems": {
+    "plank-*": {
+      "Enabled": true,
+      "Model": "danatweaks:block/ovenfuel/plankpile"
+    }
+  },
+  "OvenFuelBlocks": {
+    "peatbrick": {
+      "Enabled": true,
+      "Model": "danatweaks:block/ovenfuel/peatpile"
+    }
+  },
+  "RainCollector": {
+    "Enabled": true,
+    "LitresPerUpdate": 0.01,
+    "MinPrecipitation": 0.04,
+    "UpdateMilliseconds": 1000,
+    "LiquidCode": "game:waterportion"
+  },
+  "ScytheMore": {
+    "Enabled": true,
+    "DisallowedParts": [
+      "bush",
+      "cactus",
+      "clipping",
+      "glowworms",
+      "hay",
+      "hotspringbacteria",
+      "mushroom",
+      "roofing",
+      "sapling",
+      "seedling",
+      "vine",
+      "waterlily"
+    ],
+    "DisallowedSuffixes": [
+      "empty",
+      "flowering",
+      "harvested-free",
+      "harvested"
+    ]
+  },
+  "ChuteAutoHarvesting": false,
+  "ChuteAutoHarvestingUpdateMilliseconds": 5000,
+  "DropDecor": true,
+  "DropDecorBlocks": {
+    "game:aquatic-*": true,
+    "game:linen-*": true,
+    "game:mediumcarpet-*": true,
+    "game:rushmat": true,
+    "game:smallcarpet-*": true,
+    "game:wallpaper-*": true,
+    "game:wool-*": true,
+    "game:dpanel-*": false,
+    "game:attachingplant-*": false,
+    "game:overlay-*": false,
+    "game:decorlore-*": false,
+    "game:oxidation-*": false,
+    "game:paint-*": false,
+    "game:paper-*": false,
+    "game:precipitate-*": false,
+    "game:transition-*": false,
+    "game:wallscribbles-*": false,
+    "game:crystallayer-*": false,
+    "game:scribbles-*": false
+  },
+  "ExtinctSubmergedTorchInEverySlot": false,
+  "ExtinctSubmergedTorchInEverySlotUpdateMilliseconds": 5000,
+  "OpenConnectedTrapdoors": true,
+  "OpenConnectedTrapdoorsMaxBlocksDistance": 10,
+  "RichTraders": false,
+  "RichTradersList": {
+    "game:humanoid-trader-foods": {
+      "offset": 0.0,
+      "avg": 9999.0,
+      "var": 0.0,
+      "dist": 0
+    },
+    "game:humanoid-trader-artisan": {
+      "offset": 0.0,
+      "avg": 9999.0,
+      "var": 0.0,
+      "dist": 0
+    },
+    "game:humanoid-trader-buildmaterials": {
+      "offset": 0.0,
+      "avg": 9999.0,
+      "var": 0.0,
+      "dist": 0
+    },
+    "game:humanoid-trader-clothing": {
+      "offset": 0.0,
+      "avg": 9999.0,
+      "var": 0.0,
+      "dist": 0
+    },
+    "game:humanoid-trader-commodities": {
+      "offset": 0.0,
+      "avg": 9999.0,
+      "var": 0.0,
+      "dist": 0
+    },
+    "game:humanoid-trader-furniture": {
+      "offset": 0.0,
+      "avg": 9999.0,
+      "var": 0.0,
+      "dist": 0
+    },
+    "game:humanoid-trader-luxuries": {
+      "offset": 0.0,
+      "avg": 9999.0,
+      "var": 0.0,
+      "dist": 0
+    },
+    "game:humanoid-trader-survivalgoods": {
+      "offset": 0.0,
+      "avg": 9999.0,
+      "var": 0.0,
+      "dist": 0
+    },
+    "game:humanoid-trader-treasurehunter": {
+      "offset": 0.0,
+      "avg": 9999.0,
+      "var": 0.0,
+      "dist": 0
+    }
+  },
+  "BranchCutter": true,
+  "CreativeMiddleClickEntity": true,
+  "CreativeTapestries": true,
+  "DropResinAnyway": true,
+  "DropVinesAnyway": true,
+  "EverySoilUnstable": false,
+  "ExtraClayforming": true,
+  "FarmlandDropsSoil": true,
+  "FirepitHeatsOven": true,
+  "FixOvenFuelRendering": true,
+  "FourPlanksFromLog": false,
+  "FragileBones": false,
+  "GroundStorageImmersiveCrafting": true,
+  "GroundStorageLiquidInteraction": true,
+  "GroundStorageParticles": true,
+  "HalloweenEveryDay": true,
+  "PickUpBones": false,
+  "PlanksInPitKiln": true,
+  "PlayerDropsHotSlots": false,
+  "PlayerWakesUpWhenHungry": false,
+  "RackableFirestarter": true,
+  "RecycleBags": false,
+  "RecycleClothes": false,
+  "RegrowResin": true,
+  "RemoveBookSignature": true,
+  "ScrapRecipes": true,
+  "SealCrockExtraInteractions": true,
+  "ShelvablePie": true,
+  "SlabToolModes": true,
+  "WaxCheeseOnGround": true
+}

@@ -1,0 +1,30 @@
+{
+  "AlwaysSwitchToBestTool": false,
+  "AlwaysSwitchToBestToolIgnoredTools": [
+    "Bow",
+    "Chisel",
+    "Hammer",
+    "Hoe",
+    "Meter",
+    "Probe",
+    "Saw",
+    "Sickle",
+    "Sling",
+    "Spear",
+    "Sword",
+    "Wrench"
+  ],
+  "OverrideWaypointColors": false,
+  "ExtraWaypointColors": [],
+  "ModesPerRowForVoxelRecipesEnabled": true,
+  "ModesPerRowForVoxelRecipes": 10,
+  "ColorsPerRowForWaypointWindowEnabled": true,
+  "ColorsPerRowForWaypointWindowRatio": 1.0,
+  "IconsPerRowForWaypointWindowEnabled": true,
+  "IconsPerRowForWaypointWindowRatio": 1.0,
+  "GlowingProjectiles": false,
+  "ShakeSlotsInsideBags": true,
+  "ShakeSlotsWithBags": true,
+  "ShakeSlotsWithSuitableClothes": true,
+  "ResinOnAllSides": true
+}
