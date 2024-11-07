@@ -258,7 +258,7 @@
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
     "instabilityWavingStrength": 0.5,
-    "ssaa": 0.0,
+    "ssaa": 0.5,
     "megaScreenshotSizeMul": 2.0,
     "minbrightness": 0.1
   },

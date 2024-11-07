@@ -91,25 +91,6 @@
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 569,
-      "Y": 434
-    },
-    "playerstats": {
-      "X": -356,
-      "Y": -79
-    },
-    "environment": {
-      "X": 5,
-      "Y": 804
-    },
-    "playercharacter": {
-      "X": -3,
-      "Y": 438
-    }
-  },
-
-  "dialogPositions": {
-    "inventory-backpack": {
       "X": 882,
       "Y": 420
     },
@@ -277,13 +258,13 @@
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
     "instabilityWavingStrength": 0.5,
-    "ssaa": 0.0,
+    "ssaa": 0.5,
     "megaScreenshotSizeMul": 2.0,
     "minbrightness": 0.1
   },
   "stringListSettings": {
     "multiplayerservers": [],
-    "disabledMods": [ ],
+    "disabledMods": [],
     "dialogPositions": [],
     "modPaths": [
       "Mods",
