@@ -1,12 +1,12 @@
 {
-  "ChatNotifyOnWaypointCreation": false,
+  "ChatNotifyOnWaypointCreation": true,
   "EnableWaypointDeletionHotkey": false,
   "ChatNotifyOnWaypointDeletion": true,
   "EnableCustomHotkeys": false,
   "EnableMarkOnSneak": true,
   "EnableMarkOnInteract": true,
   "LabelCoordinates": false,
-  "DisableAllModFeatures": true,
+  "DisableAllModFeatures": false,
   "ConfigVersion": 3.0,
   "AutoMapMarkers": {
     "OrganicMatter": {
@@ -99,12 +99,12 @@
         "MarkerCoverageRadius": 20
       },
       "Tule": {
-        "Enabled": false,
+        "Enabled": true,
         "MarkerTitle": "Камыш",
         "MarkerColor": "darkkhaki",
         "MarkerIcon": "grain",
         "MarkerPinned": false,
-        "MarkerCoverageRadius": 20
+        "MarkerCoverageRadius": 30
       },
       "FruitTree": {
         "Enabled": true,
