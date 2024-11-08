@@ -91,31 +91,12 @@
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 569,
-      "Y": 434
+      "X": 623,
+      "Y": 498
     },
     "playerstats": {
-      "X": -356,
-      "Y": -79
-    },
-    "environment": {
-      "X": 5,
-      "Y": 804
-    },
-    "playercharacter": {
-      "X": -3,
-      "Y": 438
-    }
-  },
-
-  "dialogPositions": {
-    "inventory-backpack": {
-      "X": 882,
-      "Y": 420
-    },
-    "playerstats": {
-      "X": -356,
-      "Y": -79
+      "X": -358,
+      "Y": -80
     },
     "environment": {
       "X": 5,
@@ -177,7 +158,7 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
-    "musicLevel": 10,
+    "musicLevel": 0,
     "screenWidth": 1366,
     "screenHeight": 768,
     "gameWindowMode": 1,
@@ -265,7 +246,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.33594784,
+    "sepiaLevel": 0.3301086,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
