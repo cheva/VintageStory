@@ -5,3 +5,4 @@
 - Try Plains with Landcover scale: 400%: 
   * Was valleys prime 320h 102k50 70-200-30-200 200-rare no-drops-1day
   * Try valleys prime 256h 102k50 70-300-30-300 200-rare no-drops-1day
+- New Dees Default Story with NoDrops 1day ONLY looks good with mods
