@@ -7,6 +7,7 @@
   "MaxLabelRadius": 16,
   "CompactionDistance": null,
   "ShouldCompactFarGroups": true,
+  "ShouldShowEntityLines": false,
   "ShouldShowDebugText": true,
   "DotScale": 1.0,
   "LabelScale": 1.0,
