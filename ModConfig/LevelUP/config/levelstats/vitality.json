@@ -1,0 +1,12 @@
+{
+  "vitalityEXPPerReceiveHit": 10,
+  "vitalityEXPMultiplyByDamage": 0.3,
+  "vitalityEXPIncreaseByAmountDamage": 20,
+  "vitalityEXPPerLevelBase": 200,
+  "vitalityEXPMultiplyPerLevel": 1.2,
+  "vitalityBaseHP": 15.0,
+  "vitalityHPIncreasePerLevel": 0.5,
+  "vitalityBaseHPRegen": 1.0,
+  "vitalityHPRegenIncreasePerLevel": 0.1,
+  "vitalityDamageLimit": 100
+}

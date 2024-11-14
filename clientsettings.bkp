@@ -131,7 +131,7 @@
     "playername": "Dee",
     "lastSkinSelection": "baseskin:skin5,eyecolor:midnight,underwear:leotard,voicetype:trumpet,voicepitch:verylow,hairbase:dreadlocks,hairextra:vikingtopbraid,facialexpression:sad,mustache:mst-walrus30-fat,beard:brd-braid10-double,haircolor:silverchalice",
     "prevSkinSelection": "baseskin:skin18,eyecolor:dark-green,underwear:breeches,voicetype:trumpet,voicepitch:verylow,hairbase:longwithstrands,hairextra:elaboratestickbun,facialexpression:neutral,mustache:mst-walrus30-fat,beard:brd-braid10-double,haircolor:lightgray",
-    "currentHandbookCategoryCode": "guide"
+    "currentHandbookCategoryCode": null
   },
   "intSettings": {
     "fpHandsFoV": 75,
@@ -243,10 +243,10 @@
     "lodBiasFar": 0.5,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
-    "gammaLevel": 2.0,
+    "gammaLevel": 1.5,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.33744782,
+    "sepiaLevel": 0.31713834,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,

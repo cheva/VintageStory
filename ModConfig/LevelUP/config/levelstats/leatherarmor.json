@@ -1,0 +1,14 @@
+{
+  "leatherArmorEXPPerReceiveHit": 10,
+  "leatherArmorEXPMultiplyByDamage": 0.3,
+  "leatherArmorEXPIncreaseByAmountDamage": 20,
+  "leatherArmorEXPPerLevelBase": 200,
+  "leatherArmorEXPMultiplyPerLevel": 1.2,
+  "leatherArmorBaseDamageReduction": 0.0,
+  "leatherArmorDamageReductionPerLevel": 0.05,
+  "leatherArmorBaseDurabilityRestoreChance": 0.0,
+  "leatherArmorDurabilityRestoreChancePerLevel": 2.0,
+  "leatherArmorDurabilityRestoreEveryLevelReduceChance": 10,
+  "leatherArmorDurabilityRestoreReduceChanceForEveryLevel": 0.5,
+  "leatherArmorDamageLimit": 100
+}

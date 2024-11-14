@@ -1,0 +1,16 @@
+{
+  "pickaxeEXPPerHit": 10,
+  "pickaxeEXPPerBreaking": 10,
+  "pickaxeEXPPerLevelBase": 100,
+  "pickaxeEXPMultiplyPerLevel": 2.0,
+  "pickaxeBaseDamage": 1.0,
+  "pickaxeIncrementDamagePerLevel": 0.1,
+  "pickaxeBaseMiningSpeed": 1.0,
+  "pickaxeIncrementMiningSpeedMultiplyPerLevel": 0.1,
+  "pickaxeBaseOreMultiply": 0.0,
+  "pickaxeIncrementOreMultiplyPerLevel": 0.2,
+  "pickaxeBaseDurabilityRestoreChance": 0.0,
+  "pickaxeDurabilityRestoreChancePerLevel": 2.0,
+  "pickaxeDurabilityRestoreEveryLevelReduceChance": 10,
+  "pickaxeDurabilityRestoreReduceChanceForEveryLevel": 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "plateArmorEXPPerReceiveHit": 10,
+  "plateArmorEXPMultiplyByDamage": 0.3,
+  "plateArmorEXPIncreaseByAmountDamage": 20,
+  "plateArmorEXPPerLevelBase": 200,
+  "plateArmorEXPMultiplyPerLevel": 1.2,
+  "plateArmorBaseDamageReduction": 0.0,
+  "plateArmorDamageReductionPerLevel": 0.05,
+  "plateArmorBaseDurabilityRestoreChance": 0.0,
+  "plateArmorDurabilityRestoreChancePerLevel": 2.0,
+  "plateArmorDurabilityRestoreEveryLevelReduceChance": 10,
+  "plateArmorDurabilityRestoreReduceChanceForEveryLevel": 0.5,
+  "plateArmorDamageLimit": 100
+}

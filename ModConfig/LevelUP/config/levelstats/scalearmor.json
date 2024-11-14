@@ -1,0 +1,14 @@
+{
+  "scaleArmorEXPPerReceiveHit": 10,
+  "scaleArmorEXPMultiplyByDamage": 0.3,
+  "scaleArmorEXPIncreaseByAmountDamage": 20,
+  "scaleArmorEXPPerLevelBase": 20,
+  "scaleArmorEXPMultiplyPerLevel": 1.2,
+  "scaleArmorBaseDamageReduction": 0.0,
+  "scaleArmorDamageReductionPerLevel": 0.05,
+  "scaleArmorBaseDurabilityRestoreChance": 0.0,
+  "scaleArmorDurabilityRestoreChancePerLevel": 2.0,
+  "scaleArmorDurabilityRestoreEveryLevelReduceChance": 10,
+  "scaleArmorDurabilityRestoreReduceChanceForEveryLevel": 0.5,
+  "scaleArmorDamageLimit": 100
+}
