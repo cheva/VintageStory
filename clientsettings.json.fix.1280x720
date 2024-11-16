@@ -194,7 +194,7 @@
     "showCreativeHelpDialog": true,
     "smoothShadows": true,
     "flipScreenshot": true,
-    "renderClouds": true,
+    "renderClouds": false,
     "renderParticles": true,
     "transparentRenderPass": true,
     "extendedDebugInfo": false,
