@@ -1,0 +1,73 @@
+version: 1
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-WhiteRhino-Female-Ceratotheriumsimum: 230 # from 0 to 99999 with step of 1 (default: 230) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-WhiteRhino-Male-Ceratotheriumsimum: 310 # from 0 to 99999 with step of 1 (default: 310) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-WhiteRhino-Baby-Ceratotheriumsimum: 27 # from 0 to 99999 with step of 1 (default: 27) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-WoolyRhino-Female-Coelodontaantiquitatis: 200 # from 0 to 99999 with step of 1 (default: 200) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-WoolyRhino-Male-Coelodontaantiquitatis: 270 # from 0 to 99999 with step of 1 (default: 270) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-WoolyRhino-Baby-Coelodontaantiquitatis: 27 # from 0 to 99999 with step of 1 (default: 27) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-SumatranRhino-Female-Dicerorhinussumatrensis: 81 # from 0 to 99999 with step of 1 (default: 81) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-SumatranRhino-Male-Dicerorhinussumatrensis: 108 # from 0 to 99999 with step of 1 (default: 108) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-SumatranRhino-Baby-Dicerorhinussumatrensis: 13 # from 0 to 99999 with step of 1 (default: 13) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-BlackRhino-Female-Dicerosbicornis: 150 # from 0 to 99999 with step of 1 (default: 150) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-BlackRhino-Male-Dicerosbicornis: 189 # from 0 to 99999 with step of 1 (default: 189) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-BlackRhino-Baby-Dicerosbicornis: 20 # from 0 to 99999 with step of 1 (default: 20) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-JavanRhino-Female-Rhinocerossondaicus: 150 # from 0 to 99999 with step of 1 (default: 150) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-JavanRhino-Male-Rhinocerossondaicus: 189 # from 0 to 99999 with step of 1 (default: 189) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-JavanRhino-Baby-Rhinocerossondaicus: 20 # from 0 to 99999 with step of 1 (default: 20) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-IndianRhino-Female-Rhinocerosunicornis: 215 # from 0 to 99999 with step of 1 (default: 215) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-IndianRhino-Male-Rhinocerosunicornis: 285 # from 0 to 99999 with step of 1 (default: 285) 
+# Average amount of redmeat when harvested.
+Redmeat-Quantity-IndianRhino-Baby-Rhinocerosunicornis: 27 # from 0 to 99999 with step of 1 (default: 27) 
+# Average amount of fat when harvested.
+Fat-Quantity-WhiteRhino-Female-Ceratotheriumsimum: 46 # from 0 to 99999 with step of 1 (default: 46) 
+# Average amount of fat when harvested.
+Fat-Quantity-WhiteRhino-Male-Ceratotheriumsimum: 62 # from 0 to 99999 with step of 1 (default: 62) 
+# Average amount of fat when harvested.
+Fat-Quantity-WhiteRhino-Baby-Ceratotheriumsimum: 5 # from 0 to 99999 with step of 1 (default: 5) 
+# Average amount of fat when harvested.
+Fat-Quantity-WoolyRhino-Female-Coelodontaantiquitatis: 40 # from 0 to 99999 with step of 1 (default: 40) 
+# Average amount of fat when harvested.
+Fat-Quantity-WoolyRhino-Male-Coelodontaantiquitatis: 54 # from 0 to 99999 with step of 1 (default: 54) 
+# Average amount of fat when harvested.
+Fat-Quantity-WoolyRhino-Baby-Coelodontaantiquitatis: 5 # from 0 to 99999 with step of 1 (default: 5) 
+# Average amount of fat when harvested.
+Fat-Quantity-SumatranRhino-Female-Dicerorhinussumatrensis: 16 # from 0 to 99999 with step of 1 (default: 16) 
+# Average amount of fat when harvested.
+Fat-Quantity-SumatranRhino-Male-Dicerorhinussumatrensis: 21 # from 0 to 99999 with step of 1 (default: 21) 
+# Average amount of fat when harvested.
+Fat-Quantity-SumatranRhino-Baby-Dicerorhinussumatrensis: 3 # from 0 to 99999 with step of 1 (default: 3) 
+# Average amount of fat when harvested.
+Fat-Quantity-BlackRhino-Female-Dicerosbicornis: 30 # from 0 to 99999 with step of 1 (default: 30) 
+# Average amount of fat when harvested. 
+Fat-Quantity-BlackRhino-Male-Dicerosbicornis: 38 # from 0 to 99999 with step of 1 (default: 38) 
+# Average amount of fat when harvested.
+Fat-Quantity-BlackRhino-Baby-Dicerosbicornis: 4 # from 0 to 99999 with step of 1 (default: 4) 
+# Average amount of fat when harvested.
+Fat-Quantity-JavanRhino-Female-Rhinocerossondaicus: 30 # from 0 to 99999 with step of 1 (default: 30) 
+# Average amount of fat when harvested.
+Fat-Quantity-JavanRhino-Male-Rhinocerossondaicus: 38 # from 0 to 99999 with step of 1 (default: 38) 
+# Average amount of fat when harvested.
+Fat-Quantity-JavanRhino-Baby-Rhinocerossondaicus: 4 # from 0 to 99999 with step of 1 (default: 4) 
+# Average amount of fat when harvested.
+Fat-Quantity-IndianRhino-Female-Rhinocerosunicornis: 43 # from 0 to 99999 with step of 1 (default: 43) 
+# Average amount of fat when harvested.
+Fat-Quantity-IndianRhino-Male-Rhinocerosunicornis: 57 # from 0 to 99999 with step of 1 (default: 57) 
+# Average amount of fat when harvested.
+Fat-Quantity-IndianRhino-Baby-Rhinocerosunicornis: 5 # from 0 to 99999 with step of 1 (default: 5) 

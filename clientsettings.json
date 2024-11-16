@@ -250,7 +250,7 @@
     "gammaLevel": 1.5,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.3873357,
+    "sepiaLevel": 0.3720987,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
@@ -262,7 +262,7 @@
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
     "instabilityWavingStrength": 0.5,
-    "ssaa": 0.75,
+    "ssaa": 0.5,
     "megaScreenshotSizeMul": 2.0,
     "minbrightness": 0.1
   },
