@@ -91,8 +91,8 @@
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 880,
-      "Y": 427
+      "X": 569,
+      "Y": 434
     },
     "playerstats": {
       "X": -356,
@@ -110,7 +110,11 @@
       "X": 649,
       "Y": 234
     },
-    "handbook-detail": null
+    "handbook-detail": null,
+    "blockentitystove511755, 132, 511877": {
+      "X": 333,
+      "Y": 584
+    }
   },
   "stringSettings": {
     "settingsVersion": "1.13",
@@ -194,7 +198,7 @@
     "showCreativeHelpDialog": true,
     "smoothShadows": true,
     "flipScreenshot": true,
-    "renderClouds": true,
+    "renderClouds": false,
     "renderParticles": true,
     "transparentRenderPass": true,
     "extendedDebugInfo": false,
@@ -246,7 +250,7 @@
     "gammaLevel": 1.5,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.33470586,
+    "sepiaLevel": 0.3873357,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
@@ -258,7 +262,7 @@
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
     "instabilityWavingStrength": 0.5,
-    "ssaa": 0.5,
+    "ssaa": 0.75,
     "megaScreenshotSizeMul": 2.0,
     "minbrightness": 0.1
   },
