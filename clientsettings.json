@@ -118,10 +118,6 @@
     "blockentitystove510991, 112, 511998": {
       "X": 1151,
       "Y": 315
-    },
-    "toolmodeselect4807, 113, 4861": {
-      "X": 684,
-      "Y": 301
     }
   },
   "stringSettings": {
@@ -258,7 +254,7 @@
     "gammaLevel": 1.5,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.32956666,
+    "sepiaLevel": 0.29980862,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
