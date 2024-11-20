@@ -3,7 +3,7 @@
     "statictranslocator": "#00d4ad"
   },
   "ScanDelay": 20000,
-  "MaxSearchRadius": 128,
+  "MaxSearchRadius": 256,
   "MaxLabelRadius": 16,
   "CompactionDistance": null,
   "ShouldCompactFarGroups": true,

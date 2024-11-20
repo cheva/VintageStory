@@ -118,6 +118,10 @@
     "blockentitystove510991, 112, 511998": {
       "X": 1151,
       "Y": 315
+    },
+    "gui_blocksavedgroups": {
+      "X": 536,
+      "Y": 9
     }
   },
   "stringSettings": {
@@ -254,7 +258,7 @@
     "gammaLevel": 1.5,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.36185265,
+    "sepiaLevel": 0.38208807,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
