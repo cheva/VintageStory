@@ -1,8 +1,11 @@
 blockoverlay-4.0.1.zip
 CarryOn-1.20.0-pre_v1.8.0-pre.1.zip
+DanaTweaks-v3.3.4.zip
 ExtraInfo-v1.8.1.zip
 harvestcorpsesquickly_1.0.0.zip
 infinitetorch.zip
 JuicyOres-v1.0.0.zip
+levelup_1.3.4.zip
 NotEnoughMapIcons-v1.1.0.zip
 stepupcontinued_0.0.1.zip
+TempHumanClass-1.1.1.zip
