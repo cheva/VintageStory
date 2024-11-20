@@ -122,6 +122,10 @@
     "gui_blocksavedgroups": {
       "X": 536,
       "Y": 9
+    },
+    "toolmodeselect2590, 118, 2218": {
+      "X": 690,
+      "Y": 209
     }
   },
   "stringSettings": {
@@ -258,7 +262,7 @@
     "gammaLevel": 1.5,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.35347077,
+    "sepiaLevel": 0.36849838,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
