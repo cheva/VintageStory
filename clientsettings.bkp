@@ -176,7 +176,7 @@
     "masterSoundLevel": 100,
     "soundLevel": 100,
     "entitySoundLevel": 100,
-    "ambientSoundLevel": 100,
+    "ambientSoundLevel": 50,
     "weatherSoundLevel": 50,
     "musicLevel": 5,
     "screenWidth": 1280,
